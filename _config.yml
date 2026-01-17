@@ -1,2 +1,17 @@
 title: Todd Kozlowski
 theme: jekyll-theme-minimal
+description: Professional website and portfolio
+author: Todd Kozlowski
+email: your-email@example.com
+baseurl: ""
+url: "https://toddkozlowski.github.io"
+
+# Minimal theme settings
+show_downloads: false
+google_analytics: 
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
