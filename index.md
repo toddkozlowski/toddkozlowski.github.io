@@ -5,8 +5,6 @@ title: Home
 
 ## Welcome
 
-![Profile Photo](assets/headshot_photo_cropped.png){: width="200px" style="border-radius: 8px;"}
-
 Hello, and welcome to my professional website. I'm Todd Kozlowski, and this is where I share my work and professional journey.
 
 ### About Me
