@@ -5,6 +5,8 @@ title: Home
 
 I am a postdoctoral researcher in the field of precision optical interferometry. My job is to apply laser interferometers in novel ways - to measure gravitational waves from distance cosmic objects, the subtle movement of the ground or local gravity gradient, and even fundamental physics beyond the standard model.
 
+Page under construction.
+
 ### Professional Experience
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
@@ -26,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 ### Connect With Me
 
-- [Download My CV](assets/2025_Kozlowski_CV.pdf)
+- [Download My CV](CV.pdf)
 - Email: your-email@example.com
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - GitHub: [github.com/yourprofile](https://github.com/yourprofile)
